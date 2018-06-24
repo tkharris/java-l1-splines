@@ -24,6 +24,7 @@ public class Test {
 	    INDArray y_hat = l1Spline_1d(y, s);
 	    temp_chart.addSeries("L1 Spline", y_hat.data().dup().asDouble());
 	    temp_chart.build();
+	    temp_chart.saveChart("crutem3.png");
 	    temp_chart.pack();
 	    temp_chart.setVisible(true);
 	} catch (Exception e) {
