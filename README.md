@@ -1,4 +1,4 @@
-*A Java Implementation of an L1-Regularized Spline Process*
+# A Java Implementation of an L1-Regularized Spline Process*
 
 ![global temperature data](crutem3.png "L1 spline of annual temperates")
 
@@ -23,7 +23,7 @@ Hadley Centre.[2] _Note that the dataset itself has been deprecated by
 the center and is only used here as an illustration of the
 implementation of the algorithm._
 
-**Motivation for L1 Regularization**
+## Motivation for L1 Regularization
 
 Both L1 and L2 regularization seek to reduce overfitting by
 constraining the model. L2 penalizes the squared magnitude of the
