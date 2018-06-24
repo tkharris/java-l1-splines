@@ -52,5 +52,5 @@ seeks to bring small errors to zero.
 
 [1]: Mariano Tepper and Guillermo Sapiro. L1 Splines for Robust, Simple, and Fast Smoothing of Grid Data. _CoRR_, 1208.2292, 2012.
 
-[2]: P. Brohan, J. J. Kennedy, I. Harris, S. F. B. Tett, and P. D. Jones. Uncertainty estimates in regional and global observed temperature changes: A new data set from 1850. _Journal of Geophisical Research, 111(D12):D12106+, June 2006.
+[2]: P. Brohan, J. J. Kennedy, I. Harris, S. F. B. Tett, and P. D. Jones. Uncertainty estimates in regional and global observed temperature changes: A new data set from 1850. _Journal of Geophisical Research_, 111(D12):D12106+, June 2006.
 
