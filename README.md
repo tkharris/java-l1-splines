@@ -1,4 +1,4 @@
-# A Java Implementation of an L1-Regularized Spline Process*
+# A Java Implementation of an L1-Regularized Spline Process
 
 ![global temperature data](crutem3.png "L1 spline of annual temperates")
 
